@@ -1,2 +1,2 @@
 # QR-DECO
-Scala Code to generate and  QR Codes
+Scala Code to read and write QR Codes
